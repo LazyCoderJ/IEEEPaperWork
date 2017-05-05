@@ -1,0 +1,2 @@
+Do auto arima on the data to find confidence on the metric.
+Replicate the top 3 metric pattern.
